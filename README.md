@@ -1,1 +1,1 @@
-# super-quize
+# Quiz_App
